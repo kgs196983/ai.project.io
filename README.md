@@ -1,1 +1,3 @@
-# ai.project.io
+# 这是我们的AI Project
+这个project是由3位11岁小孩创建
+这个project你可以改动，不过你的软件一定要有我们的名字
