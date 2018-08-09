@@ -1,9 +1,9 @@
 #V1.0
-##用什么语言编写？
+##用什么语言编写？  
 用Python和HTML
-##用什么Python库编写？
-AIML，tornado
-##如何安装
-1.点开“install.cmd”  
-##注意！
-仅支持64位Windows，Linux系统
+##用什么Python库编写？  
+AIML，tornado  
+##如何安装  
+1.点开“install.cmd”    
+##注意！  
+仅支持64位Windows，Linux系统  
